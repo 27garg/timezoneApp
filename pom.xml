@@ -28,7 +28,7 @@
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
-				<applicationName>Diensh_apps2343</applicationName>
+				<applicationName>DienshRapps</applicationName>
 				<password>Corona123@#</password>
 				<muleVersion>4.2.2</muleVersion>
 				</cloudHubDeployment>
